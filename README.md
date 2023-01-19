@@ -4,13 +4,13 @@ My name is Jeremy Benik. I am a graduate research assistant at San Jose State Un
 
 I am currently working on analyzing the fire-inducued circulations during the FireFlux2 experimental burn, installing wrfxpy on NASA HPC's, implementing the Balbi rate of spread model into WRF-SFIRE, and implementing the 40 Scott and Burgen fuel categories into WRF-SFIRE. 
 
-Currently, my language of choice is Python, but I also use MATLAB quite a bit and I'm learning LaTeX, fortran, and C++. 
+Currently, my language of choice is Python, but I also use MATLAB quite a bit and I'm learning LaTeX, fortran, C++, and SQL. 
 
 If you need to reach me (serious inquiries only), please email me at: Jeremy.Benik@SJSU.edu and allow a few business days for me to respond. 
 
 If you are interested in me for a internship/job positions, please send me an email and I would love to meet up and talk about the position. 
 
-Some fun facts about me are I'm a speedcuber (I like to solve Rubik's cubes. My specialty is blindsolving), running, music (I play violin and bass guitar), video games (I used to speedrun The Legend Of Zelda: Ocarina of Time and Majora's Mask), and traveling (I've been to Canada, Mexico, and Australia). 
+Some fun facts about me are I'm a speedcuber (I like to solve Rubik's cubes. My specialty is blindsolving), running, music (I play violin and bass guitar), video games (I used to speedrun The Legend Of Zelda: Ocarina of Time and Majora's Mask), I like to learn about ethical hacking in my free time, and I really like traveling (I've been to Canada, Mexico, and Australia). 
 
 <!--
 **Jeremy-Benik/Jeremy-Benik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
