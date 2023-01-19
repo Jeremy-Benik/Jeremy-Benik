@@ -1,6 +1,6 @@
 ### Hi there
 
-My name is Jeremy Benik. I am a graduate research assistant at San Jose State University in the meteorology department. I am a part of the Wildfire Interdisciplinary Research Center (WIRC) and I work in the wildfire modeling department under Dr. Adam Kochanski. I received my Bachelors of Science in Atmospheric Science from the University of Nevada, Reno. I also received two minors in Mathematics and Geography. 
+My name is Jeremy Benik. I am a graduate research assistant at San Jose State University in the meteorology department. I am a part of the Wildfire Interdisciplinary Research Center (WIRC) and I work in the wildfire modeling department under Dr. Adam Kochanski where we use WRF-SFIRE to run large-scale simulations on wildfires. I received my Bachelors of Science in Atmospheric Science from the University of Nevada, Reno. I also received two minors in Mathematics and Geography. 
 
 I am currently working on analyzing the fire-inducued circulations during the FireFlux2 experimental burn, installing wrfxpy on NASA HPC's, implementing the Balbi rate of spread model into WRF-SFIRE, and implementing the 40 Scott and Burgen fuel categories into WRF-SFIRE. 
 
