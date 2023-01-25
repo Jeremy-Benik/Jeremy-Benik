@@ -12,7 +12,7 @@ If you are interested in me for a internship/job positions, please send me an em
 
 I have also made some commits to the WRF-SFIRE repository (https://github.com/wrf-sfire/WRF-SFIRE.git) such as implementing and testing the Balbi model and implementing the 40 Scott and Burgen fuel categories. 
 
-Some fun facts about me are I'm a speedcuber (I like to solve Rubik's cubes. My specialty is blindsolving), running, music (I play violin and bass guitar), video games (I used to speedrun The Legend Of Zelda: Ocarina of Time and Majora's Mask), I like to learn about ethical hacking in my free time, and I really like traveling (I've been to Canada, Mexico, and Australia). 
+Some fun facts about me are I'm a speedcuber (I like to solve Rubik's cubes quickly. Check out my World Cube Association profile https://bit.ly/3kLrpbS), running, music (I play violin and bass guitar), video games (I used to speedrun The Legend Of Zelda: Ocarina of Time and Majora's Mask), I like to learn about ethical hacking in my free time, and I really like traveling (I've been to Canada, Mexico, and Australia). 
 
 
 <!--
