@@ -10,7 +10,7 @@ If you need to reach me (serious inquiries only), please email me at: Jeremy.Ben
 
 If you are interested in me for a internship/job positions, please send me an email and I would love to meet up and talk about the position. 
 
-I have also made some commits to the WRF-SFIRE repository (https://github.com/wrf-sfire/WRF-SFIRE.git) such as implementing and testing the Balbi model and implementing the 40 Scott and Burgen fuel categories. 
+I have also made some commits to the WRF-SFIRE repository (https://github.com/wrf-sfire/WRF-SFIRE.git) such as implementing and testing the Balbi model and implementing the 40 Scott and Burgen fuel categories and fixing some physical properties within the model. 
 
 Some fun facts about me are I'm a speedcuber (I like to solve Rubik's cubes quickly. Check out my World Cube Association profile https://bit.ly/3kLrpbS), running, music (I play violin and bass guitar), video games (I used to speedrun The Legend Of Zelda: Ocarina of Time and Majora's Mask), I like to learn about ethical hacking in my free time, and I really like traveling (I've been to Canada, Mexico, and Australia). 
 
