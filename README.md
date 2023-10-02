@@ -1,4 +1,4 @@
-### Hi there
+### Hi there,
 
 My name is Jeremy Benik. I am a research scientist at Bay Area Environmental Research Institute. Previously, I was a graduate research assistant at San Jose State University in the meteorology department in the Wildfire Interdisciplinary Research Center (WIRC https://www.sjsu.edu/wildfire/index.php) where I worked in the wildfire modeling department under Dr. Adam Kochanski and received my Masters of Science. I received my Bachelors of Science in Atmospheric Science from the University of Nevada, Reno. I also received two minors in Mathematics and Geography. 
 
