@@ -4,13 +4,15 @@ My name is Jeremy Benik. I am a research scientist at Bay Area Environmental Res
 
 I received my Bachelors of Science in Atmospheric Science from the University of Nevada, Reno where I worked under Dr. Neil Lareau for my undergrad thesis which analyzed the LNU complex fire (events that led up to it's ignition, the lightning strikes that started the fire, and the smoke impacts). I also received two minors in Mathematics and Geography.
 
-Currently, my coding language of choice is Python, but I also use MATLAB and LaTeX quite a bit and I'm learning Fortran, C++, CSS, HTML, and javascript. 
+While at UNR and SJSU, I was a weather forecaster (I specialized in forecasting fog) and researcher for WeatherExtreme Ltd. (https://weatherextreme.com/) Feel free to check out their website and if you have any questions or are interested in their services, please email me at Jeremy@weatherextreme.com
+
+Since my current line or work involves a lot of programming, my coding language of choice is Python, but I have also used MATLAB and LaTeX quite a bit and I'm learning Fortran, C++, CSS, HTML, and javascript. In fact, my entire Masters thesis was written in LaTeX. 
 
 If you need to reach me (serious inquiries only), please email me at: Jeremy.Benik@SJSU.edu and allow a few business days for me to respond. 
 
 I have also made some commits to the WRF-SFIRE repository (https://github.com/openwfm/WRF-SFIRE) such as implementing and testing the Balbi model and implementing the 40 Scott and Burgen fuel categories and fixing some physical properties within the model. 
 
-Some fun facts about me are I'm a speedcuber (I like to solve Rubik's cubes quickly. Check out my World Cube Association profile https://bit.ly/3kLrpbS), running, music (I play violin and bass guitar), video games (I used to speedrun The Legend Of Zelda: Ocarina of Time and Majora's Mask), and I really like traveling (I've been to Canada, Mexico, and Australia). 
+Some fun facts about me are I'm a speedcuber (I like to solve Rubik's cubes quickly. Check out my World Cube Association profile https://bit.ly/3kLrpbS), running, music (I play violin and bass guitar in the Reno Video Game Symphony Orchestra), video games (I used to speedrun The Legend Of Zelda: Ocarina of Time and Majora's Mask), and I really like traveling (I've been to Canada, Mexico, and Australia). 
 
 <!--
 **Jeremy-Benik/Jeremy-Benik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
