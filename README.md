@@ -12,7 +12,7 @@ If you need to reach me (serious inquiries only), please email me at: Jeremy.Ben
 
 I have also made some commits to the WRF-SFIRE repository (https://github.com/openwfm/WRF-SFIRE) such as implementing and testing the Balbi model and implementing the 40 Scott and Burgen fuel categories and fixing some physical properties within the model. 
 
-Some fun facts about me are I'm a speedcuber (I like to solve Rubik's cubes quickly. Check out my World Cube Association profile https://bit.ly/3kLrpbS), running, music (I play violin and bass guitar in the Reno Video Game Symphony Orchestra), video games (I used to speedrun The Legend Of Zelda: Ocarina of Time and Majora's Mask), and I really like traveling (I've been to Canada, Mexico, and Australia). 
+Some fun facts about me are I'm a speedcuber (I like to solve Rubik's cubes quickly. Check out my [World Cube Association profile](https://bit.ly/3kLrpbS)), running, music (I play violin and bass guitar in the [Reno Video Game Symphony Orchestra](https://www.rvgs.org/), video games (I used to speedrun The Legend Of Zelda: Ocarina of Time and Majora's Mask), and I really like traveling (I've been to Canada, Mexico, and Australia). 
 
 <!--
 **Jeremy-Benik/Jeremy-Benik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
