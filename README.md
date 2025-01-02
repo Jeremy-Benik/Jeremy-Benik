@@ -4,7 +4,7 @@ My name is Jeremy Benik. I am a research scientist at [Bay Area Environmental Re
 
 I received my Bachelors of Science in Atmospheric Science from the University of Nevada, Reno where I worked under Dr. Neil Lareau for my undergrad thesis which analyzed the LNU complex fire (events that led up to it's ignition, the lightning strikes that started the fire, and the smoke impacts). I also received two minors in Mathematics and Geography.
 
-While at UNR and SJSU, I was a weather forecaster (I specialized in forecasting fog) and researcher for WeatherExtreme Ltd. (https://weatherextreme.com/) Feel free to check out their website and if you have any questions or are interested in their services, please email me at Jeremy@weatherextreme.com
+While at UNR and SJSU, I was a weather forecaster (I specialized in forecasting fog) and researcher for [WeatherExtreme Ltd.](https://weatherextreme.com/) Feel free to check out their website and if you have any questions or are interested in their services, please email me at Jeremy@weatherextreme.com
 
 Since my current line or work involves a lot of programming, my coding language of choice is Python, but I have also used MATLAB and LaTeX quite a bit and I'm learning Fortran, C++, CSS, HTML, and javascript. In fact, my entire Masters thesis was written in LaTeX. 
 
